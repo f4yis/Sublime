@@ -1,4 +1,11 @@
-# Sublime
+![Sublime](https://www.sublimetext.com/images/logo.svg)
+# Sublime Text 3
 Sublime text 3  configuration and related stuffs i use
 
-![Sublime](https://www.sublimetext.com/images/logo.svg)
+## Packages
+-emmit
+
+## User Configuration
+-
+
+## EsLint
