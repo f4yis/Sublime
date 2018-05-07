@@ -3,7 +3,7 @@
 Sublime text 3  configuration and related stuffs i use
 
 ## Packages
--emmit
+
 -A File Icon
 -All Autocomplete
 -Git
@@ -17,6 +17,8 @@ Sublime text 3  configuration and related stuffs i use
 -Spacegray
 -Trimmer
 -WakaTime
+-Babel
+-LoremIpsum
 
 ## User Configuration
 `
