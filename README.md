@@ -4,6 +4,19 @@ Sublime text 3  configuration and related stuffs i use
 
 ## Packages
 -emmit
+-A File Icon
+-All Autocomplete
+-Git
+-GitGutter
+-Markdown preview
+-Material Theme
+-SidebarEnhancement
+-SublimeLinter
+-SublimeLinter-eslint
+-Terminal
+-Spacegray
+-Trimmer
+-WakaTime
 
 ## User Configuration
 `
